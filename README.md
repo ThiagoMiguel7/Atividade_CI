@@ -1,3 +1,3 @@
 # Atividade_CI
 
-[![CI Build and Test](https://github.com/ThiagoMiguel7/Atividade_CI/actions/workflows/dart.yml/badge.svg)](https://github.com/ThiagoMiguel7/Atividade_CI/actions/workflows/dart.yml)
+![Badge do CI](https://github.com/ThiagoMiguel7/Atividade_CI/actions/workflows/build_and_test.yml/badge.svg)
