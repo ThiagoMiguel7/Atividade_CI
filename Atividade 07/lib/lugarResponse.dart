@@ -1,4 +1,4 @@
-import 'package:atividade06/lugar.dart';
+import 'package:atividade07/lugar.dart';
 
 class LugarResponse {
   final Lugar lugar;

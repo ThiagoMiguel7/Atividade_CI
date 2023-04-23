@@ -1,5 +1,5 @@
-import 'package:atividade06/lugar.dart';
-import 'package:atividade06/lugarBloc.dart';
+import 'package:atividade07/lugar.dart';
+import 'package:atividade07/lugarBloc.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'mockLugarRepository.dart';

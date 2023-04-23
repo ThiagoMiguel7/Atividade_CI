@@ -1,6 +1,6 @@
-import 'package:atividade06/lugar.dart';
-import 'package:atividade06/lugarRepository.dart';
-import 'package:atividade06/lugarResponse.dart';
+import 'package:atividade07/lugar.dart';
+import 'package:atividade07/lugarRepository.dart';
+import 'package:atividade07/lugarResponse.dart';
 
 class MockLugarRepository extends LugarRepositoryInterface {
   bool success;

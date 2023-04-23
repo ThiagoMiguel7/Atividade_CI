@@ -1,5 +1,5 @@
-import 'package:atividade06/lugarApiProvider.dart';
-import 'package:atividade06/lugarResponse.dart';
+import 'package:atividade07/lugarApiProvider.dart';
+import 'package:atividade07/lugarResponse.dart';
 
 abstract class LugarRepositoryInterface {
   Future<LugarResponse> getLugar(String cep);

@@ -1,8 +1,8 @@
-import 'package:atividade06/lugarRepository.dart';
+import 'package:atividade07/lugarRepository.dart';
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
-import 'package:atividade06/lugarBloc.dart';
-import 'package:atividade06/lugarResponse.dart';
+import 'package:atividade07/lugarBloc.dart';
+import 'package:atividade07/lugarResponse.dart';
 
 void main() {
   runApp(const MyApp());

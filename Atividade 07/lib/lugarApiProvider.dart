@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:atividade06/lugarResponse.dart';
-import 'package:atividade06/lugar.dart';
+import 'package:atividade07/lugarResponse.dart';
+import 'package:atividade07/lugar.dart';
 
 class LugarApiProvider {
   final String _endpoint = "https://viacep.com.br/ws/";
