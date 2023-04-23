@@ -19,7 +19,7 @@ void main() {
       final LugarBloc bloc = LugarBloc(mockRepository);
       await bloc.getLugar("04548005");
       String error = bloc.lugarResponseSubject.valueOrNull?.error ?? "";
-      expect(error, equals("Erro de requisição"));
+      expect(error, equals("Erro de requisição."));
     });
   });
 }
