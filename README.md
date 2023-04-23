@@ -30,7 +30,7 @@ $ dart pub add dio
 > Veja o arquivo  **[pubspec.ymal](https://github.com/ThiagoMiguel7/Atividade_CI/blob/main/pubspec.yaml)**
 
 
-## Passo 3:  Instalando Emulador
+## Passo 3:  Instalar Emulador
 
 Você também precisará de um emulador ou dispositivo físico para executar o projeto Flutter. Se você não tiver um dispositivo físico, poderá criar um emulador usando o Android Studio ou o Visual Studio Code com a extensão Flutter instalada.
 
@@ -49,7 +49,7 @@ Para criar um emulador no Visual Studio Code, siga estas etapas:
 $ flutter run
 ```
 
-## Passo 5:  Rodando os testes automatizados
+## Passo 5:  Executar os testes automatizados
 ```bash
 $ flutter test
 ```
