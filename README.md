@@ -1,3 +1,5 @@
+
+![Badge do CI](https://github.com/ThiagoMiguel7/Atividade_CI/actions/workflows/build_and_test.yml/badge.svg)
 # Atividade_CI
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/)
 
@@ -54,7 +56,6 @@ $ flutter run
 $ flutter test
 ```
 
-![Badge do CI](https://github.com/ThiagoMiguel7/Atividade_CI/actions/workflows/build_and_test.yml/badge.svg)
 
 
 <p align="center">
